@@ -47,6 +47,8 @@ frontend/
 
 <img width="572" height="682" alt="Screenshot 2025-08-21 182340" src="https://github.com/user-attachments/assets/cf15287e-aca2-4d49-907d-dba22ffeb9da" />
 
+<img width="510" height="406" alt="Screenshot 2025-08-22 173315" src="https://github.com/user-attachments/assets/2ac14681-8b97-4da3-8c35-c488a411399e" />
+
 <img width="592" height="588" alt="Screenshot 2025-08-21 182349" src="https://github.com/user-attachments/assets/de9ab996-784f-450c-8932-3fdfea6dd55e" />
 
 <img width="1219" height="738" alt="Screenshot 2025-08-21 182411" src="https://github.com/user-attachments/assets/7d48f048-d2fc-4c16-9035-9447f7a8bc1e" />
